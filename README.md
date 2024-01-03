@@ -1,7 +1,7 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Bruno Baruffaldi</h3>
 
-I'm an experienced **software developer** and **machine learing** professional! My passion is building software, and currently, I specialize in designing custom deep learning models for agricultural computer vision, powered by HPC tools and optimized for edge computing. 🚀
+I'm an experienced **software developer** and **machine learing** professional! My passion is building machine learning models, and currently, I specialize in designing custom deep learning models for agricultural computer vision, powered by HPC tools and optimized for edge computing. 🚀
 
 I like open software projects, teaching stuff, making creative things and working in awesome teams.
 
