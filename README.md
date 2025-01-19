@@ -3,7 +3,7 @@
 
 I'm an experienced **software developer** and **machine learing** professional! My passion is building machine learning models, and currently, I specialize in designing custom deep learning models for agricultural computer vision, powered by HPC tools and optimized for edge computing. 🚀
 
-I like open software projects, teaching stuff, making creative things and working in awesome teams.
+I like contributing to open software projects, making creative things and working in awesome teams.
 
 - 🔭 I usually work with:
 
